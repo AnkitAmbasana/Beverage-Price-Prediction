@@ -30,8 +30,9 @@
 ---
 
 ## 🚀 Launch App
+[https://beverage-price-prediction-codex.streamlit.app/](https://beverage-price-prediction-codex.streamlit.app/)
 
-![app](Project Screenshot 1.jpg)
+![app](Project%20Screenshot%201.JPG)
 
 ### Installation Steps
 
